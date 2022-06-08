@@ -21,10 +21,13 @@ class FiledSpecificViewController: UIViewController {
         
         let  firstViewController = storyboard?.instantiateViewController(withIdentifier: "fieldViewController") as? FieldViewController
         firstViewController?.title = "企業・法務"
+        firstViewController?.data = ["あいうえお", "かきくけこ"]
         
         let secoundViewController = storyboard?.instantiateViewController(withIdentifier: "fieldViewController") as? FieldViewController
+        secoundViewController?.data = ["あいうえお", "かきくけこ", "たちつてと"]
         secoundViewController?.title = "経営戦略"
         let thirdViewController = storyboard?.instantiateViewController(withIdentifier: "fieldViewController") as? FieldViewController
+        
         thirdViewController?.title = "システム戦略"
         let fourthViewController = storyboard?.instantiateViewController(withIdentifier: "fieldViewController") as? FieldViewController
         fourthViewController?.title = "開発技術"

@@ -6,15 +6,45 @@
 //
 
 import UIKit
+import SnapKit
 
 class FieldViewController: UIViewController {
     
-    @IBOutlet weak var selectFiledButton: UIButton!
+    var data: [String] = [] {
+        didSet {
+            data.forEach { element in
+                let button = UIButton()
+                button.setTitle(element, for: .normal)
+                button.backgroundColor = .blue
+                stackView.addArrangedSubview(button)
+            }
+        }
+    }
+    
+    private let stackView: UIStackView = {
+        let stack = UIStackView()
+        stack.axis = .vertical
+        stack.distribution = .fillProportionally
+        stack.spacing = 8
+        stack.alignment = .center
+        return stack
+    }()
     
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        selectFiledButton.setTitle("仮", for: .normal)
-        selectFiledButton.layer.cornerRadius = 25
+        setupView()
+        setupConstraints()
+    }
+    
+    private func setupView() {
+        view.addSubview(stackView)
+        
+    }
+    
+    private func setupConstraints() {
+        stackView.snp.makeConstraints {
+            $0.edges.equalTo(view.safeAreaLayoutGuide)
+        }
     }
 }
