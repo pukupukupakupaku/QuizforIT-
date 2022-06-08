@@ -1,4 +1,5 @@
 ${PODS_ROOT}/Target Support Files/Pods-Quiz for ITパスポート/Pods-Quiz for ITパスポート-frameworks.sh
 ${BUILT_PRODUCTS_DIR}/Charts/Charts.framework
 ${BUILT_PRODUCTS_DIR}/Parchment/Parchment.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework
 ${BUILT_PRODUCTS_DIR}/SwiftAlgorithms/Algorithms.framework

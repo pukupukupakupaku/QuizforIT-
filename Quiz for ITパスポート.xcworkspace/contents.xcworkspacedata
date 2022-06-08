@@ -2,9 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:Quiz for IT&#x30cf;&#x309a;&#x30b9;&#x30db;&#x309a;&#x30fc;&#x30c8;.xcodeproj">
+      location = "group:Quiz for ITパスポート.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Quiz for ITパスポート.xcodeproj">
    </FileRef>
 </Workspace>
