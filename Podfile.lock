@@ -1,0 +1,49 @@
+PODS:
+  - Charts (4.0.3):
+    - Charts/Core (= 4.0.3)
+  - Charts/Core (4.0.3):
+    - SwiftAlgorithms (~> 1.0)
+  - Parchment (3.2.0)
+  - Realm (10.28.1):
+    - Realm/Headers (= 10.28.1)
+  - Realm/Headers (10.28.1)
+  - RealmSwift (10.28.1):
+    - Realm (= 10.28.1)
+  - SnapKit (5.6.0)
+  - SRCircleProgress (0.2.1)
+  - SwiftAlgorithms (1.0.0)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Charts
+  - Parchment (~> 3.2)
+  - Realm
+  - RealmSwift
+  - SnapKit
+  - SRCircleProgress
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - Parchment
+    - Realm
+    - RealmSwift
+    - SnapKit
+    - SRCircleProgress
+    - SwiftAlgorithms
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Charts: d959d6723c8eedfdd0735dfc28cb0a71762ac4d9
+  Parchment: a43c440b22c8a60f7e0196b74339446d4d1d18ea
+  Realm: f4674e0e7ee537f67a78d79bd8319bc777d61d06
+  RealmSwift: 0e0e4786685c4442bf56d3831dfefb5fa05d6fd6
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  SRCircleProgress: 3a9e4411086fb8d0f5218739ee9d27a45bca8d03
+  SwiftAlgorithms: 38dda4731d19027fdeee1125f973111bf3386b53
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 584083636433e1614c7eb4092f8ea2fe59ab285c
+
+COCOAPODS: 1.11.3

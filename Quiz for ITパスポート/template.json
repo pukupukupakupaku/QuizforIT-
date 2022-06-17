@@ -1,0 +1,201 @@
+{
+  "basic": [
+    {
+      "企業・法務": [
+        {
+          "企業活動": [
+            {
+              "question": "職能別や地域別など複数の形態で細かく分ける組織はどれか",
+              "options": [
+                "プロジェクト組織",
+                "職能別組織",
+                "事業部組織",
+                "マトリックス組織"
+              ],
+              "answer": 3,
+              "explanation": "マトリックスとは、マス目などの意味を表します。"
+            },
+            {
+              "question": "XXX",
+              "options": [
+                "X",
+                "X",
+                "X",
+                "X"
+              ],
+              "answer": 0,
+              "explanation": "XXX"
+            }
+          ]
+        },
+        {
+          "法務": [
+            {
+              "question": "著作権の対象とならない著作物はどれか？",
+              "options": [
+                "音楽",
+                "コンピュータプログラム",
+                "アルゴリズム",
+                "映画"
+              ],
+              "answer": 2,
+              "explanation": "アルゴリズムは処理手順を指す言葉です。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "経営戦略": [
+        {
+          "技術戦略マネジメント": [
+            {
+              "question": "企業のオーナーから経営陣が独立するため、企業の経営陣が所属する企業や事業部門を買収するM&A手法はどれか",
+              "options": [
+                "垂直統合",
+                "TOB",
+                "MBO",
+                "シックスシグマ"
+              ],
+              "answer": 2,
+              "explanation": "Management Buyoutの略で、経営陣による自社買収のことです"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "システム戦略": [
+        {
+          "XXX": [
+            {
+              "question": "XXX",
+              "options": [
+                "X",
+                "X",
+                "X",
+                "X"
+              ],
+              "answer": 0,
+              "explanation": "XXX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "開発技術": [
+        {
+          "XXX": [
+            {
+              "question": "XXX",
+              "options": [
+                "X",
+                "X",
+                "X",
+                "X"
+              ],
+              "answer": 0,
+              "explanation": "XXX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "プロジェクトマネジメント": [
+        {
+          "XXX": [
+            {
+              "question": "XXX",
+              "options": [
+                "X",
+                "X",
+                "X",
+                "X"
+              ],
+              "answer": 0,
+              "explanation": "XXX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "サービスマネジメント": [
+        {
+          "XXX": [
+            {
+              "question": "XXX",
+              "options": [
+                "X",
+                "X",
+                "X",
+                "X"
+              ],
+              "answer": 0,
+              "explanation": "XXX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "基礎理論": [
+        {
+          "XXX": [
+            {
+              "question": "XXX",
+              "options": [
+                "X",
+                "X",
+                "X",
+                "X"
+              ],
+              "answer": 0,
+              "explanation": "XXX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "コンピュターシステム": [
+        {
+          "XXX": [
+            {
+              "question": "XXX",
+              "options": [
+                "X",
+                "X",
+                "X",
+                "X"
+              ],
+              "answer": 0,
+              "explanation": "XXX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "技術要素": [
+        {
+          "XXX": [
+            {
+              "question": "XXX",
+              "options": [
+                "X",
+                "X",
+                "X",
+                "X"
+              ],
+              "answer": 0,
+              "explanation": "XXX"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
